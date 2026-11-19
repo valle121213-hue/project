@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Запустить index.js",
+      "program": "${workspaceFolder}/8.decorators/task.js",
+      "runtimeExecutable": "/Users/alekseysubbotin/.nvm/versions/node/v22.23.5/bin/node",
+      "skipFiles": [
+        "<node_internals>/**"
+      ]
+    }
+  ]
+}
+

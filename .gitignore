@@ -1,0 +1,22 @@
+# Зависимости Node.js
+node_modules/
+
+# Файлы VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+
+# Системные файлы macOS
+.DS_Store
+
+# Логи npm
+npm-debug.log*
+
+# Логи и временные файлы
+*.log
+tmp/
+
+# Переменные окружения (конфиденциальными настройками)
+.env
+.env.local
+.env.*.local
